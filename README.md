@@ -6,7 +6,7 @@ This is a simple Flutter application that demonstrates **Firebase Authentication
 
 You can download the release APK here:
 
-👉 [Download app-release.apk](build/app/outputs/flutter-apk/app-release.apk)
+👉 [Download app-release.apk](app-release.apk)
 
 > Note: If the above link doesn’t work in your editor, navigate manually to the path and open the `.apk` file.
 
