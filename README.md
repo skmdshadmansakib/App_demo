@@ -40,11 +40,11 @@ Here’s a short demo showing the functionality of the app:
 
 This app uses Firebase for user authentication.
 
-### ✅ Sign Up Success
+### ✅ Before Sign Up Success
 
 ![Firebase After Sign Up](assets/1.png)
 
-### ✅ Sign In Success
+### ✅ After Sign Up and then Sign In Success
 
 ![Firebase After Sign In](assets/2.png)
 
