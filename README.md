@@ -12,7 +12,7 @@ This is a simple Flutter application that demonstrates **Firebase Authentication
 
 You can download the release APK here:
 
-👉 [Download app-release.apk](https://github.com/skmdshadmansakib/App_demo/raw/main/build/app/outputs/flutter-apk/app-release.apk)
+👉 [Download app-release.apk](app-release.apk)
 
 > Note: If the above link doesn’t work in your editor, navigate manually to the path and open the `.apk` file.
 
@@ -22,7 +22,7 @@ You can download the release APK here:
 
 Here’s a short demo showing the functionality of the app:
 
-📽️ [Watch app_demo.mp4](https://github.com/skmdshadmansakib/App_demo/raw/main/app_demo.mp4)
+📽️ [Watch app_demo.mp4](app_demo.mp4)
 
 ---
 
@@ -42,11 +42,11 @@ This app uses Firebase for user authentication.
 
 ### ✅ Sign Up Success
 
-![Firebase After Sign Up](https://raw.githubusercontent.com/skmdshadmansakib/App_demo/main/assets/1.png)
+![Firebase After Sign Up](assets/1.png)
 
 ### ✅ Sign In Success
 
-![Firebase After Sign In](https://raw.githubusercontent.com/skmdshadmansakib/App_demo/main/assets/2.png)
+![Firebase After Sign In](assets/2.png)
 
 ---
 
