@@ -36,11 +36,11 @@ This app uses Firebase for user authentication.
 
 ### 🔓 Sign Up Success
 
-![Firebase After Sign Up](assets/images/firebase_signup.png)
+![Firebase After Sign Up](assets/1.png)
 
 ### 🔐 Sign In Success
 
-![Firebase After Sign In](assets/images/firebase_signin.png)
+![Firebase After Sign In](assets/2.png)
 
 ---
 
